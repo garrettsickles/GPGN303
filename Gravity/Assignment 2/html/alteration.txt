@@ -1,6 +1,0 @@
-<p><b><center>Tensor Matrix Graphs with the Original Anomaly</center></b></p>
-<img src="result.png"></img>
-<center><pre class="codeoutput">Command Used: Gravity_Tensor(1000, 100, 0, 0, 200, 1)</center>
-</pre>
-<p style="page-break-after:always;"></p>
-<p><b><center>Appendix I: MatLab Code, "Gravity_Tensor.m"</center></b></p>
